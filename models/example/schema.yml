@@ -2,7 +2,7 @@
 version: 2
 
 models:
-  - name: my_quarto_dbt_model
+  - name: my_terceiro_dbt_model
     description: "A starter dbt model"
     columns:
       - name: id
